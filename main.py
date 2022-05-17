@@ -1,7 +1,6 @@
 import utils as u
 import constants as c
 import numpy as np
-import colorama as color
 
 mi_tablero = u.Tablero()
 x = mi_tablero.iniciar_tableros()
